@@ -26,3 +26,8 @@ e nos dará as informações preenchidas. Para ser feito o armazenamento do cada
 
 SEGUE UM EXEMPLO DO FORMULÁRIO PREENCHIDO
 ![menu](https://github.com/leviutima/Challenge-Sp2/assets/146796839/aaaf61f1-bda1-40bf-94b0-dca10bb5f417)
+
+Como visto na imagem acima, temos o preenchimento do formulário pelo cliente, porém temos o formulário preenchido pelo especialista da SalesForce.
+
+SEGUE UM EXEMPLO DO FORUMLÁRIO PREENCHIDO PELO FUNCIONÁRIO
+![menu funcn](https://github.com/leviutima/Challenge-Sp2/assets/146796839/6285e03e-80d9-477b-9bbd-565b33698c1e)

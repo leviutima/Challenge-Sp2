@@ -20,6 +20,9 @@ O projeto foi desenvolvido em java, HTML, CSS e javascript.
 
 ## UTILIZAÇÃO
 
-O usuário, caso deseje contratar um serviço ou produto, deverá preencher um formulário, já especificar qual produto ele deseja adquirir, cujos dados consistirão em seu cadastro no banco de dados da Salesforce. 
+Para se dar início ao portal o cliente deverá realizar um cadastro forncendo suas informações que foram classificadas como String, com um set para entrada em um get para saída das respostas. Após a conclusão cadastro
+o cliente é questionado se quer obter mais um plano com a opção de continuar ou rejeitar, caso o mesmo aceite será feito novamente o formulário de preenchimento do produto caso não queira continuar será finalizado o processo 
+e nos dará as informações preenchidas. Para ser feito o armazenamento do cadastro do cliente foi uitilizado as listas de Arraylist.
 
-Ao preencher o formulário, um especialista será designado para o caso e este deverá entrar em contato com o cliente e avaliar as suas necessidades.
+SEGUE UM EXEMPLO DO FORMULÁRIO PREENCHIDO
+![menu](https://github.com/leviutima/Challenge-Sp2/assets/146796839/aaaf61f1-bda1-40bf-94b0-dca10bb5f417)
